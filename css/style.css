@@ -395,8 +395,12 @@ cursor: pointer;
   overflow: hidden;
   transition: all .5s ease;
   /* overflow: hidden; */
-  position: relative;
-  top: -320px;
+  position: absolute;
+  top: 220px;
+  left: 0;
+  right\:;
+  margin: 30px auto;
+  right: 0;
 }
 
 .frame-long {
